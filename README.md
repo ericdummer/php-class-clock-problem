@@ -1,4 +1,8 @@
 # Clock Problem
+I wrote this application to as an intro to PHP for non developers at my company, who were interested in knowing more.
+
+
+## Directions
 Implement the function `function findAngle(int $hour, int $min): int`
 
 ## Vagrant instructions
